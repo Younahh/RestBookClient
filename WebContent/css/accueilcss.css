@@ -1,0 +1,128 @@
+@charset "ISO-8859-1";
+div.mr{
+width:100%;
+}
+img.mr{
+border-radius: 10px;
+width:150px;
+height:100px;
+}
+th.mr{
+text-align: right;
+}
+div.mm{
+margin-top: 10px;
+}
+table.mm{
+border: solid Tomato;
+background:Tomato;
+border-radius: 10px;
+height:50px;
+}
+div.mk{
+background:;
+border-radius: 10px;
+margin-top: 15px;
+}
+img.mk{
+width:80%;
+border-radius: 10px;
+width:500;
+height:250;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left:100px;
+}
+div.mc{
+background:lightgray;
+border-radius: 10px;
+}
+a.mm{
+text-decoration: none;
+}
+a.ml{
+text-decoration: none;
+}
+
+.recherche_p {
+  background-color: #eeeeee;   
+  border-style: solid;  
+  border-width: 1px;  
+  border-color: #dddddd; 
+  padding: 10px 10px 10px 10px; 
+}
+#searchthis #search {
+  background-color: #eeeeee; 
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #dddddd; 
+  padding: 5px 10px 5px 10px;  
+  width: 98.5%;   
+  box-sizing: border-box;  
+  font-family: Lato;  
+  font-size: 12px;   
+  font-weight: normal;   
+  letter-spacing: 1px;  
+}
+#searchthis #search-btn {
+  background-color: Tomato; 
+  border-style: solid;   
+  border-width: 1px;   
+  border-color: #E8B960;   
+  padding: 5px 10px 5px 10px;  
+  width: 98.5%;   
+  box-sizing: border-box;   
+  font-family: PT sans;  
+  font-size: 13px;   
+  font-weight: normal;  
+  letter-spacing: 2px;   
+  margin: 10px 0 0 0;  
+  text-transform: uppercase;  
+  color: #ffffff; 
+}
+#searchthis #search-btn:hover {
+  background-color: #ffffff;  
+  color: #E8B960;
+  cursor: pointer;   
+}
+.recherche {
+  background-color: ;   
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #ffffff; 
+  padding: 10px 10px 10px 10px;  
+}
+#searchthi {
+  background-color: #ffffff;  
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #ffffff;  
+  padding: 5px 8px 5px 8px;    
+  width: 70%;   
+  box-sizing: border-box;  
+  font-family: Lato;   
+  font-size: 12px;  
+  font-weight: normal;   
+  letter-spacing: 1px; 
+}
+#searchthi #search-bt {
+  background-color: Tomato;  
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #E8B960;   
+  padding: 5px 10px 5px 8px;  
+  width: 70%;  
+  box-sizing: border-box;   
+  font-family: PT sans;  
+  font-size: 13px;  
+  font-weight: normal;   
+  letter-spacing: 2px;  
+  margin: 10px 0 0 10px;  
+  text-transform: uppercase; 
+  color: #ffffff;   
+}
+#searchthi #search-bt:hover {
+  background-color: #ffffff;
+  color: #E8B960; 
+  cursor: pointer; 
+}

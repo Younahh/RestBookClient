@@ -1,0 +1,139 @@
+@charset "ISO-8859-1";
+img.mr{
+border-radius: 10px;
+width:150px;
+height:100px;
+}
+th.mr{
+text-align: right;
+}
+html, body, h1, form, fieldset, input
+{
+margin: 0; padding: 0; border: none;
+}
+h2{
+text-align: center;
+}
+body {
+font-family: Helvetica, Arial, sans-serif; font-size: 12px;
+}
+table{
+width:100%;
+}
+td.nn{
+text-align: right;
+}
+td{
+text-align: center;
+}
+td.hh{
+text-align: left;
+}
+input{
+border-style:solid;
+border-width: 1px;
+}
+div.mc{
+background:lightgray;
+border-radius: 10px;
+}
+.recherche_p {
+  background-color: #eeeeee;   
+  border-style: solid;  
+  border-width: 1px;  
+  border-color: #dddddd; 
+  padding: 10px 10px 10px 10px; 
+}
+#searchthis #search {
+  background-color: #eeeeee; 
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #dddddd; 
+  padding: 5px 10px 5px 10px;  
+  width: 98.5%;   
+  box-sizing: border-box;  
+  font-family: Lato;  
+  font-size: 12px;   
+  font-weight: normal;   
+  letter-spacing: 1px;  
+}
+#searchthis #search-btn {
+  background-color: Tomato; 
+  border-style: solid;   
+  border-width: 1px;   
+  border-color: #E8B960;   
+  padding: 5px 10px 5px 10px;  
+  width: 98.5%;   
+  box-sizing: border-box;   
+  font-family: PT sans;  
+  font-size: 13px;   
+  font-weight: normal;  
+  letter-spacing: 2px;   
+  margin: 10px 0 0 0;  
+  text-transform: uppercase;  
+  color: #ffffff; 
+}
+#searchthis #search-btn:hover {
+  background-color: #ffffff;  
+  color: #E8B960;
+  cursor: pointer;   
+}
+.recherche {
+  background-color: ;   
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #ffffff; 
+  padding: 10px 10px 10px 10px;  
+}
+#searchthi {
+  background-color: #ffffff;  
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #ffffff;  
+  padding: 5px 8px 5px 8px;    
+  width: 70%;   
+  box-sizing: border-box;  
+  font-family: Lato;   
+  font-size: 12px;  
+  font-weight: normal;   
+  letter-spacing: 1px; 
+}
+#searchthi #search-bt {
+  background-color: Tomato;  
+  border-style: solid;  
+  border-width: 1px;   
+  border-color: #E8B960;   
+  padding: 5px 10px 5px 8px;  
+  width: 70%;  
+  box-sizing: border-box;   
+  font-family: PT sans;  
+  font-size: 13px;  
+  font-weight: normal;   
+  letter-spacing: 2px;  
+  margin: 10px 0 0 10px;  
+  text-transform: uppercase; 
+  color: #ffffff;   
+}
+#searchthi #search-bt:hover {
+  background-color: #ffffff;
+  color: #E8B960; 
+  cursor: pointer; 
+}
+
+#registration {
+    color: #2d2d2d;
+    background: Tomato;
+     -webkit-border-radius: 10px;
+     border-radius: 10px;
+     margin:100px;
+     width: 500px;
+     }
+ 
+ #registration a {
+      color: #8c910b;
+      text-shadow: 0px -1px 0px #000;
+      }
+ 
+#registration fieldset {
+      padding: 20px;
+      }
